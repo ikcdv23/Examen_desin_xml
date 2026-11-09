@@ -1,0 +1,11 @@
+# Archivos locales de Visual Studio
+.vs/
+*.user
+*.suo
+
+# Archivos generados al compilar
+**/bin/
+**/obj/
+
+# Datos locales de la aplicación
+personas.xml
